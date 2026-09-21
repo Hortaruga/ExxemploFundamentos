@@ -1,0 +1,14 @@
+C:\Users\alves\OneDrive\Desktop\Projetos teste\ExxemploFundamentos\bin\Debug\net10.0\ExxemploFundamentos.exe
+C:\Users\alves\OneDrive\Desktop\Projetos teste\ExxemploFundamentos\bin\Debug\net10.0\ExxemploFundamentos.deps.json
+C:\Users\alves\OneDrive\Desktop\Projetos teste\ExxemploFundamentos\bin\Debug\net10.0\ExxemploFundamentos.runtimeconfig.json
+C:\Users\alves\OneDrive\Desktop\Projetos teste\ExxemploFundamentos\bin\Debug\net10.0\ExxemploFundamentos.dll
+C:\Users\alves\OneDrive\Desktop\Projetos teste\ExxemploFundamentos\bin\Debug\net10.0\ExxemploFundamentos.pdb
+C:\Users\alves\OneDrive\Desktop\Projetos teste\ExxemploFundamentos\obj\Debug\net10.0\ExxemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alves\OneDrive\Desktop\Projetos teste\ExxemploFundamentos\obj\Debug\net10.0\ExxemploFundamentos.AssemblyInfoInputs.cache
+C:\Users\alves\OneDrive\Desktop\Projetos teste\ExxemploFundamentos\obj\Debug\net10.0\ExxemploFundamentos.AssemblyInfo.cs
+C:\Users\alves\OneDrive\Desktop\Projetos teste\ExxemploFundamentos\obj\Debug\net10.0\ExxemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\alves\OneDrive\Desktop\Projetos teste\ExxemploFundamentos\obj\Debug\net10.0\ExxemploFundamentos.dll
+C:\Users\alves\OneDrive\Desktop\Projetos teste\ExxemploFundamentos\obj\Debug\net10.0\refint\ExxemploFundamentos.dll
+C:\Users\alves\OneDrive\Desktop\Projetos teste\ExxemploFundamentos\obj\Debug\net10.0\ExxemploFundamentos.pdb
+C:\Users\alves\OneDrive\Desktop\Projetos teste\ExxemploFundamentos\obj\Debug\net10.0\ExxemploFundamentos.genruntimeconfig.cache
+C:\Users\alves\OneDrive\Desktop\Projetos teste\ExxemploFundamentos\obj\Debug\net10.0\ref\ExxemploFundamentos.dll
