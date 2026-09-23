@@ -7,6 +7,11 @@ namespace ExxemploFundamentos.Models
 {
     public class CPF
     {
-        
+        public string NumeroCpf { get; private set; }
+
+        public CPF(string numeroCpf)
+        {
+            this.NumeroCpf = numeroCpf.Replace(".", "").Replace("-", "");
+        }
     }
 }

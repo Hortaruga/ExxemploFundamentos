@@ -12,3 +12,4 @@ C:\Users\alves\OneDrive\Desktop\Projetos teste\ExxemploFundamentos\obj\Debug\net
 C:\Users\alves\OneDrive\Desktop\Projetos teste\ExxemploFundamentos\obj\Debug\net10.0\ExxemploFundamentos.pdb
 C:\Users\alves\OneDrive\Desktop\Projetos teste\ExxemploFundamentos\obj\Debug\net10.0\ExxemploFundamentos.genruntimeconfig.cache
 C:\Users\alves\OneDrive\Desktop\Projetos teste\ExxemploFundamentos\obj\Debug\net10.0\ref\ExxemploFundamentos.dll
+C:\Users\alves\OneDrive\Desktop\Projetos teste\ExxemploFundamentos\obj\Debug\net10.0\ExxemploFundamentos.sourcelink.json
