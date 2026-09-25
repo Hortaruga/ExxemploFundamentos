@@ -65,7 +65,15 @@ while (opcao != "0")
             pessoa1.AtribuirContaCorrente(contaCorrente);
     
             break;
-    
+
+
+        case "3":
+            Console.WriteLine("Dados da conta cadastrada:");
+            Console.WriteLine($"Agência: {pessoa1.ContaCorrente?.Agencia}");
+            Console.WriteLine($"Conta: {pessoa1.ContaCorrente?.ContaComDigito}");
+            Console.WriteLine($"Saldo: R$ {pessoa1.ContaCorrente?.SaldoConta}");
+            break;
+
         default:
             Console.WriteLine("Opção invalida!");
             break;
